@@ -1,0 +1,15 @@
+{
+  "name": "excel-facsimile",
+  "version": "1.0.0",
+  "description": "packages for my excel facsimilie",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taran",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "nodemon": "^2.0.13"
+  }
+}
